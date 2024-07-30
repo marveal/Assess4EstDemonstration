@@ -1,0 +1,7 @@
+/RData
+*.*~
+*.Rdata
+*.tif
+*.pdf
+*.jpeg
+*.xl*
